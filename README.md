@@ -4,7 +4,7 @@
 
 Preview Facilitator Guide: <a href="https://ladieslearningcode.github.io/glc-photo-editing-with-pixlr/facilitator-guide.html">ladieslearningcode.github.io/glc-photo-editing-with-pixlr/facilitator-guide.html</a>
 
-Preview Slides: <a href="https://ladieslearningcode.github.io/glc-photo-editing-with-pixlr/slides.html">ladieslearningcode.github.io/gglc-photo-editing-with-pixlr/slides.html</a>
+Preview Slides: <a href="https://ladieslearningcode.github.io/glc-photo-editing-with-pixlr/slides.html">ladieslearningcode.github.io/glc-photo-editing-with-pixlr/slides.html</a>
 
 Activity List: <a href="http://bit.ly/photo-editing-activity-list">bit.ly/photo-editing-activity-list</a>
 
